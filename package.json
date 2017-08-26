@@ -1,0 +1,16 @@
+{
+  "name": "Aug_26_Callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "weather-js": "^2.0.0"
+  }
+}
